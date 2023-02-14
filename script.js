@@ -20,3 +20,5 @@ console.log(pakeltiKvadratu(6));
 //Sukurkite modulį (t.y. file'ą - multi.js), kuriame būtų viena eksportuota (default) funkcija - multiplikacija. Ji priims du skaičius kaip parametrus ir grąžins šiuos skaičius sudaugintus. Pagrindiniame JS file'e (script.js) importuokite ir panaudokite šį modulį.
 
 //Įkelti šitą kodą į github repositoriją, sukurti github Pages ir įkelti link'ą į chat'ą
+
+//Pakeitimas
